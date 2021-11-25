@@ -1,5 +1,5 @@
 # MultiCube
 Controll 4 cubes in same time.
 
-[![SC2 Video](doc/SC2_youtube.gif)](https://studio.youtube.com/video/fE5slrS8wcY)
+[![Demo](mc.jpg)](https://www.youtube.com/watch?v=fE5slrS8wcY)
 
